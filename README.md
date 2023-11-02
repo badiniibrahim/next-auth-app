@@ -3,6 +3,22 @@ The repository is dedicated to a Next.js application in which I integrated NextA
 <!-- Badges -->
 <a href="https://nexlink.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 
+<h1 align="center">
+  SAWADOGO Badini Ibrahim
+</h1>
+
+[![GitHub badiniibrahim](https://img.shields.io/github/followers/badiniibrahim?label=follow&style=social)](https://github.com/badiniibrahim)
+
+[![Gmail Badge](https://img.shields.io/badge/-sawadogo.badiniibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sawadogo.badiniibrahim@gmail.com)](mailto:sawadogo.badiniibrahim@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
+
+## About this Repository
+![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/next-auth-app)
+![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/next-auth-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/next-auth-app)
+![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/next-auth-app)
+
 ## Technologies
 - Next.js
 - Beautiful layouts with TailwindCSS
